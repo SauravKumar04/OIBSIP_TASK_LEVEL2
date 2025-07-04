@@ -17,8 +17,6 @@ A modern calculator app that performs basic arithmetic operations.
 - Operates with keyboard & mouse
 - Animated buttons
 
-📁 Folder: `task1-calculator/`  
-📄 Files: `index.html`, `style.css`, `script.js`
 
 ---
 
@@ -33,9 +31,6 @@ A tribute page dedicated to **Dr. A.P.J. Abdul Kalam**, the Missile Man of India
 - Toggleable **dark mode** included
 - Stylish typography and glassmorphism
 
-📁 Folder: `task2-tribute-page/`  
-📄 Files: `index.html`, `style.css`, `script.js`
-
 ---
 
 ## ✅ Task 3 – To-Do Web App ✅
@@ -49,9 +44,6 @@ An elegant to-do list app to manage daily tasks using only frontend code.
 - Fully responsive
 - Built with localStorage (optional to extend)
 
-📁 Folder: `task3-todo-webapp/`  
-📄 Files: `index.html`, `style.css`, `script.js`
-
 ---
 
 ## ✅ Task 4 – Authentication System 🔐
@@ -64,9 +56,6 @@ A secure client-side authentication system using only **JavaScript** and `localS
 - Session persists until logout
 - Error handling and validation
 - Smooth transitions and responsive layout
-
-📁 Folder: `task4-auth-system/`  
-📄 Files: `index.html`, `style.css`, `auth.js`
 
 ---
 
