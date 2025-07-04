@@ -1,4 +1,4 @@
-# 🚀 Web Development Projects (Oasis Infobyte Internship)
+# 🚀 Web Development Projects (Oasis Infobyte Project)
 
 A curated collection of frontend mini-projects built using **HTML**, **CSS**, and **JavaScript** as part of the **Oasis Infobyte Web Development Internship**.
 
