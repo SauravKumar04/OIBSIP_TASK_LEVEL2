@@ -1,0 +1,127 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #ecf0f3, #dfe6e9);
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+  position: relative;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.35);
+  padding: 40px;
+  border-radius: 16px;
+  display: inline-block;
+  backdrop-filter: blur(6px);
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+/* Profile Image */
+.profile-img {
+  display: block;
+  max-width: 220px;
+  width: 90%;
+  height: 220px;
+  object-fit: cover;
+  margin: 30px auto;
+  border-radius: 50%;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  border: 5px solid #fff;
+  background-color: #fff;
+}
+
+/* Main Content */
+.content {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px 20px;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 20px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+h2 {
+  color: #6a11cb;
+  font-size: 1.5rem;
+  margin-bottom: 12px;
+}
+
+.bio, .achievements {
+  margin-bottom: 40px;
+}
+
+.achievements ul {
+  list-style: disc;
+  padding-left: 20px;
+}
+
+.achievements li {
+  margin-bottom: 10px;
+}
+
+/* Quote Section */
+.quote {
+  background: #f9f9ff;
+  padding: 30px;
+  border-left: 5px solid #6a11cb;
+  font-style: italic;
+  font-size: 1.2rem;
+  color: #444;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.05);
+  border-radius: 8px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #6a11cb;
+  color: white;
+  font-size: 0.9rem;
+  margin-top: 50px;
+  box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  .profile-img {
+    height: 180px;
+    max-width: 180px;
+  }
+
+  .overlay {
+    padding: 30px;
+  }
+}
