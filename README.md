@@ -1,6 +1,6 @@
 # 🚀 Web Development Projects (Oasis Infobyte Project)
 
-A curated collection of frontend mini-projects built using **HTML**, **CSS**, and **JavaScript** as part of the **Oasis Infobyte Web Development Internship**.
+A curated collection of frontend mini-projects built using **HTML**, **CSS**, and **JavaScript** as part of the **Oasis Infobyte Web Development Project**.
 
 Each task demonstrates essential frontend concepts with beautiful, modern UI and interactive logic.
 
